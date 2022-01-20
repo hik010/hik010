@@ -6,7 +6,8 @@ Having no option but to stay at home🏠 for the last 2 years of college, I star
 
 📫 Feel free to reach out [here](mailto:hyo.kim0633@gmail.com)
 
-⚡️ Fun fact: I'm trilingual and have lived in three different countries in my life. Born in 🇰🇷. Lived in 🇨🇳 for 10 years, and currently in California,🇺🇸
+⚡️ Fun fact: I'm trilingual and have lived in three different countries in my life. 
+Born in 🇰🇷. Lived in 🇨🇳 for 10 years, and currently in California, 🇺🇸
 .
 <!--
 **hik010/hik010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
