@@ -1,6 +1,6 @@
 ### Hi. I'm Hyo! 👋
 
-I am a <b>fullstack developer</b> and a recent graduate from University of California - San Diego with a degree in Bioengineering: Bioinformatics.
+I am a <b>fullstack developer</b>.
 
 Having no option but to stay at home🏠 for the last 2 years of college, I started to play around with web development👩🏻‍💻 and created simple static websites. What first started as a curiosity eventually led me to this path of becoming a software engineer.       
 
